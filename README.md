@@ -1,0 +1,1 @@
+# Requisitos_Funcionais_SYNC
